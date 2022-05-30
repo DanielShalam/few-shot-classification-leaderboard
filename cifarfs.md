@@ -10,6 +10,7 @@ layout: leaderboard
 
 Method   | Venue | Year | Backbone   | Setting | 1-shot      | 5-shot   | Code | Reported by 
 ------- | ------ | ---- | --------   | -----    | -----   | -----    | ---- | ----
+[SOT](https://arxiv.org/pdf/2204.03065.pdf) | arXiv |  2022 | WRN-28-10 | Transductive | 89.94 |  92.83 |  None |  [\[Source\]](https://arxiv.org/pdf/2204.03065.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Transductive | 87.16 ± 0.21 |  90.47 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 2xResNet-12(1/√2) | Transductive | 86.99 ± 0.21 | 90.20 ± 0.15 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
 [EASY](https://arxiv.org/pdf/2201.09699.pdf) | arXiv |  2022 | 3xResNet-12 | Inductive |  76.20 ± 0.2 |  89.00 ± 0.14 |  [\[PyTorch\]](https://github.com/ybendou/easy) |  [\[Source\]](https://arxiv.org/pdf/2201.09699.pdf)
